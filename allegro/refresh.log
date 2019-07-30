@@ -1,0 +1,94 @@
+Tue Jul 30 16:45:32 2019				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Tue Jul 30 16:45:32 2019
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : CADCAD.brd                                    )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Tue Jul 30 16:45:32 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Tue Jul 30 16:45:32 2019				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/user/Desktop/work/¾îÄ¡/allegro/CADCAD.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'YES'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/USERS/USER/DESKTOP/WORK/PCB_LIB/PSM/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_17.2/share/local/pcb/padstacks 
+           C:/Cadence/SPB_17.2/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_17.2/share/pcb/allegrolib/symbols 
+           C:/Users/user/Desktop/work/PCB_lib/pad/ 
+
+
+------ Symbol Refresh Messages ------
+
+'CAP196'  symbol refreshed successfully.
+'DO41'  symbol refreshed successfully.
+'JUMPER2'  symbol refreshed successfully.
+'RES400'  symbol refreshed successfully.
+'RESADJ'  symbol refreshed successfully.
+'TO92'  symbol refreshed successfully.
+'JUMPER3'  symbol refreshed successfully.
+'JUMPER4'  symbol refreshed successfully.
+'DIP8_3'  symbol refreshed successfully.
+'AB00'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'TO_LLB_PAD75'  pad stack refreshed successfully.
+'TO_LLB_PAD76'  pad stack refreshed successfully.
+'PAD60SQ36D'  pad stack refreshed successfully.
+'PAD60CIR36D'  pad stack refreshed successfully.
+'PAD65CIR42D'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 10 out 10
+    Design updated.
+

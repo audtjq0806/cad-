@@ -1,0 +1,131 @@
+\t (00:00:00) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Tue Jul 30 16:55:19 2019
+\t (00:00:00)         Host=USER-PC User=user Pid=8184 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\user\Desktop\work\어치\allegro\CADCAD.brd
+\t (00:00:00) 
+   (00:00:00) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: C:/Users/user/Desktop/work/어치/allegro/CADCAD.brd
+\i (00:00:08) trapsize 694
+\i (00:00:08) trapsize 710
+\i (00:00:08) trapsize 710
+\i (00:00:08) trapsize 694
+\i (00:00:08) generaledit 
+\i (00:05:35) zoom out 1 
+\i (00:05:36) setwindow pcb
+\i (00:05:36) zoom out 30.172 59.755
+\i (00:05:36) trapsize 1387
+\i (00:05:37) zoom in 1 
+\i (00:05:37) setwindow pcb
+\i (00:05:37) zoom in -11.995 71.506
+\i (00:05:37) trapsize 694
+\i (00:05:38) zoom out 1 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out 122.827 61.103
+\i (00:05:38) trapsize 1387
+\i (00:05:40) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:05:40) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:05:42) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Design"
+\i (00:05:42) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Design"
+\i (00:05:43) zoom in 1 
+\i (00:05:43) setwindow pcb
+\i (00:05:43) zoom in -32.523 17.966
+\i (00:05:43) trapsize 694
+\i (00:05:45) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: DrillDraw"
+\i (00:05:46) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: DrillDraw"
+\i (00:05:47) zoom out 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom out 105.767 55.555
+\i (00:05:47) trapsize 1387
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 119.498 41.823
+\i (00:05:48) trapsize 1387
+\i (00:05:50) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:05:52) zoom out 1 
+\i (00:05:52) setwindow pcb
+\i (00:05:52) zoom out -3.950 -28.085
+\i (00:05:52) trapsize 1387
+\i (00:06:06) zoom in 1 
+\i (00:06:06) setwindow pcb
+\i (00:06:06) zoom in 3.540 -21.982
+\i (00:06:06) trapsize 694
+\i (00:06:07) zoom out 1 
+\i (00:06:07) setwindow pcb
+\i (00:06:07) zoom out 0.211 -25.866
+\i (00:06:07) trapsize 1387
+\e (00:06:18) Command not found: Insert
+\i (00:06:51) trapsize 1948
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 5.714 -12.208
+\i (00:06:53) trapsize 974
+\i (00:06:53) zoom out 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom out 5.714 -12.208
+\i (00:06:53) trapsize 1948
+\i (00:06:58) drag_start grid -27.403 97.662
+\i (00:07:01) drag_stop 138.182 -49.221
+\i (00:07:03) prepopup 125.714 115.584
+\i (00:07:05) prepopup 191.169 136.234
+\i (00:07:07) pick grid 176.364 133.896
+\t (00:07:07) last pick:  176.400 133.900
+\i (00:07:35) zoom in 1 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) zoom in 11.169 -30.130
+\i (00:07:35) trapsize 974
+\i (00:07:36) zoom out 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom out 14.481 -29.351
+\i (00:07:36) trapsize 1948
+\i (00:07:37) trapsize 1045
+\i (00:07:43) trapsize 1948
+\i (00:07:45) trapsize 1937
+\i (00:07:45) trapsize 1535
+\i (00:07:45) trapsize 1506
+\i (00:07:45) trapsize 1496
+\i (00:07:45) trapsize 1459
+\i (00:07:46) trapsize 1469
+\i (00:07:46) trapsize 1466
+\i (00:07:46) trapsize 1440
+\i (00:07:48) zoom in 1 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom in 36.996 -24.938
+\i (00:07:48) trapsize 720
+\i (00:07:48) zoom out 1 
+\i (00:07:48) setwindow pcb
+\i (00:07:48) zoom out 36.996 -25.226
+\i (00:07:48) trapsize 1440
+\i (00:07:55) zoom in 1 
+\i (00:07:55) setwindow pcb
+\i (00:07:55) zoom in 29.506 -20.617
+\i (00:07:55) trapsize 720
+\i (00:07:57) zoom out 1 
+\i (00:07:57) setwindow pcb
+\i (00:07:57) zoom out 80.926 -24.217
+\i (00:07:57) trapsize 1440
+\i (00:07:58) zoom in 1 
+\i (00:07:58) setwindow pcb
+\i (00:07:58) zoom in 99.506 54.856
+\i (00:07:58) trapsize 720
+\i (00:07:59) zoom out 1 
+\i (00:07:59) setwindow pcb
+\i (00:07:59) zoom out 72.860 4.877
+\i (00:07:59) trapsize 1440
+\i (00:08:06) trapsize 1190
+\i (00:08:06) trapsize 1172
+\i (00:08:06) trapsize 1171
+\i (00:08:07) trapsize 1071
+\i (00:08:07) trapsize 1068
+\i (00:08:07) trapsize 1062
+\i (00:08:07) trapsize 1046
+\i (00:08:09) zoom out 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom out 52.304 -27.196
+\i (00:08:09) trapsize 1440
+\i (00:08:09) zoom out 1 
+\i (00:08:09) setwindow pcb
+\i (00:08:09) zoom out 90.864 -18.601
+\i (00:08:09) trapsize 1440
+\i (00:09:56) exit 
+\t (00:09:56)     Journal end - Tue Jul 30 17:05:15 2019

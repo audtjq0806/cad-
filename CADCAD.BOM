@@ -1,0 +1,30 @@
+  Revised: Tuesday, July 30, 2019
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 30,2019      16:52:44	Page1
+
+Item	Quantity	Reference	Part	part
+______________________________________________
+
+1	3	C1,C2,C3	0.01uF	CAP NP
+2	1	D1	1S1588	DIODE
+3	1	J1	CON4	CON4
+4	1	J2	CON3	CON3
+5	1	J3	CON2	CON2
+6	1	Q1	2SA1015	PNP BCE
+7	1	R1	560	R
+8	1	R2	39k	R
+9	1	R3	6.2k	R
+10	1	R4	100k	R
+11	5	R5,R6,R7,R8,R9	10k	R
+12	1	U1	NE555	NE555_7
+13	3	U2,U4,U5	LF356	LF356_4
+14	1	U3	LF398	LF398
+15	1	VR1	5k	POT
+16	1	VR2	20k	POT

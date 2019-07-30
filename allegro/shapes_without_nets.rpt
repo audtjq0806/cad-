@@ -1,0 +1,39 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : CADCAD.brd                                    )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Jul 30 15:56:34 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 20
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+	Point on shape: (76.915 42.465)  Net: Dummy Net
+	Point on shape: (76.390 13.410)  Net: Dummy Net
+	Point on shape: (47.090 17.410)  Net: Dummy Net
+	Point on shape: (26.490 34.390)  Net: Dummy Net
+	Point on shape: (20.990 49.210)  Net: Dummy Net
+	Point on shape: (76.915 42.465)  Net: Dummy Net
+	Point on shape: (76.390 13.410)  Net: Dummy Net
+	Point on shape: (47.090 17.410)  Net: Dummy Net
+	Point on shape: (26.490 34.390)  Net: Dummy Net
+	Point on shape: (20.990 49.210)  Net: Dummy Net
+	Point on shape: (76.915 42.465)  Net: Dummy Net
+	Point on shape: (76.390 13.410)  Net: Dummy Net
+	Point on shape: (47.090 17.410)  Net: Dummy Net
+	Point on shape: (26.490 34.390)  Net: Dummy Net
+	Point on shape: (20.990 49.210)  Net: Dummy Net
+	Point on shape: (76.915 42.465)  Net: Dummy Net
+	Point on shape: (76.390 13.410)  Net: Dummy Net
+	Point on shape: (47.090 17.410)  Net: Dummy Net
+	Point on shape: (26.490 34.390)  Net: Dummy Net
+	Point on shape: (20.990 49.210)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.

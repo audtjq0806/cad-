@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Dynamic Status Report                                      )
+(                                                                     )
+(    Drawing          : CADCAD.brd                                    )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Jul 30 16:04:01 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 20 out of 20
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = BOTTOM
+       State: No Etch      Point on shape: (76.915 42.465)  Net: Not on a Net
+       State: No Etch      Point on shape: (76.390 13.410)  Net: Not on a Net
+       State: No Etch      Point on shape: (47.090 17.410)  Net: Not on a Net
+       State: No Etch      Point on shape: (26.490 34.390)  Net: Not on a Net
+       State: No Etch      Point on shape: (20.990 49.210)  Net: Not on a Net
+       State: No Etch      Point on shape: (76.915 42.465)  Net: Dummy Net
+       State: No Etch      Point on shape: (76.390 13.410)  Net: Not on a Net
+       State: No Etch      Point on shape: (47.090 17.410)  Net: Not on a Net
+       State: No Etch      Point on shape: (26.490 34.390)  Net: Not on a Net
+       State: No Etch      Point on shape: (20.990 49.210)  Net: Not on a Net
+       State: No Etch      Point on shape: (76.915 42.465)  Net: Not on a Net
+       State: No Etch      Point on shape: (76.390 13.410)  Net: Not on a Net
+       State: No Etch      Point on shape: (47.090 17.410)  Net: Not on a Net
+       State: No Etch      Point on shape: (26.490 34.390)  Net: Not on a Net
+       State: No Etch      Point on shape: (20.990 49.210)  Net: Not on a Net
+       State: No Etch      Point on shape: (76.915 42.465)  Net: Not on a Net
+       State: No Etch      Point on shape: (76.390 13.410)  Net: Not on a Net
+       State: No Etch      Point on shape: (47.090 17.410)  Net: Not on a Net
+       State: No Etch      Point on shape: (26.490 34.390)  Net: Not on a Net
+       State: No Etch      Point on shape: (20.990 49.210)  Net: Not on a Net
